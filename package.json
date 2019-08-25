@@ -1,5 +1,5 @@
 {
-  "name": "@publicdomain/xp-request-log",
+  "name": "xp-request-log",
   "version": "1.0.0",
   "description": "A simple log requests for node/express",
   "main": "xp-request-log.js",
